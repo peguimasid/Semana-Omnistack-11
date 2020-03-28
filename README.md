@@ -10,7 +10,11 @@
   :rocket: [Semana Omnistack 11.0]
 </h3>
 
-# Utlizando Bando de dados SQLite
+## Projeto:
+
+Fizemos uma aplicaçāo onde ONGS podem se cadastrar e pedir ajuda para seus casos, ja no aplicativo Mobile as pessoas vizualizam os casos e podem escolher os casos que desejam ajudar e entrat em contato com a ONG para combinar como sera feita a ajuda.
+
+### Utlizando Bando de dados SQLite
 
 Para o banco de dados ***SQLite*** temos duas opcoes para escolher:
 
