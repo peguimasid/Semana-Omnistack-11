@@ -2,6 +2,10 @@
   <img src="https://rocketseat.com.br/static/images/week/logo.svg" width="400px" />
 </h1>
 
+<h1 align="center">
+  <img src="./assets/bethehero.png" width="400px" />
+</h1>
+
 <h3 align="center">
   :rocket: [Semana Omnistack 11.0]
 </h3>
