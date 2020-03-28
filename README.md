@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="./assets/bethehero.png" width="400px" />
+  <img src="./assets/bethehero.png" width="700px" />
 </h1>
 
 <h3 align="center">
